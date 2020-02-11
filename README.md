@@ -1,1 +1,1 @@
-# vy42.gitub.io
+# infoai.github.io
